@@ -1,4 +1,4 @@
-### Module positions - created on Mon Nov 27 09:54:47 2017 ###
+### Module positions - created on Mon Mar 12 17:03:52 2018 ###
 ### Printed by Pcbnew version kicad 4.0.5+dfsg1-4~bpo8+1
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -34,5 +34,5 @@ R8        22k                R_0603_HandSoldering                       158.0000
 R9        1M                 R_0603_HandSoldering                       137.6500  -118.9000  180.0000  bottom
 R10       390k               R_0603_HandSoldering                       143.6000   -97.4000  180.0000  bottom
 U1        STM32F205RETx      LQFP-64_10x10mm_Pitch0.5mm_handsoldering   148.5000  -105.6500    0.0000  bottom
-U3        UG-2864HSWEG01     UG-2864HSWEG01_handsoldering               158.6500   -95.2500  180.0000  bottom
+U3        UG-2864HSWEG01     UG-2864HSWEG01_handsoldering               158.6500   -93.4720  180.0000  bottom
 ## End
